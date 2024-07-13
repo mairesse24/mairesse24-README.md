@@ -22,15 +22,9 @@
 
 <br> </br>
 
-<style>
-  body {
-    background-color: #f0f0f0;
-    font-family: Arial, sans-serif;
-    padding: 20px;
-  }
-</style>
 
-<h1 style="font-weight: bold;">Hi, I'm Mairesse, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+
+<h1 style="font-weight: bold; background-color: #f0f0f0; padding: 20px; border-bottom: 1px solid #ccc;">Hi, I'm Mairesse, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
 
 <h2 style="font-weight: bold;">👨‍💻 Information Technology Projects:</h2>
 
