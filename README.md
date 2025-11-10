@@ -26,4 +26,5 @@
 
 <p style="display: flex; flex-direction: row;">
   [<img alt="Mairesse | Instagram" width="22px" src="www.linkedin.com/in/mairesse-nkundizanye-13a6202a3" />]
+  li><a href="hwww.linkedin.com/in/mairesse-nkundizanye-13a6202a3">Mairesse | Linkedln</a></li>
 </p>
