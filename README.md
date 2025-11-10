@@ -24,7 +24,6 @@
 
 <h2 style="font-weight: bold;">🤳Connect with me:</h2>
 
-<p style="display: flex; flex-direction: row;">
-  [<img alt="Mairesse | Instagram" width="22px" src="www.linkedin.com/in/mairesse-nkundizanye-13a6202a3" />]
-  li><a href="hwww.linkedin.com/in/mairesse-nkundizanye-13a6202a3">Mairesse | Linkedln</a></li>
+<p style="display: flex; flex-direction: row;"
+ <li><a href="https://www.linkedin.com/in/mairesse-nkundizanye-13a6202a3" target="_blank">Mairesse | LinkedIn</a></li>
 </p>
