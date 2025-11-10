@@ -1,5 +1,5 @@
 # mairesse24-README.md
-<h1 align="center">Hi, I'm Mairesse 👋</h1>
+<h1 align="center">Hi, I'm Mairesse</h1>
 <h3 align="center">
   I'm an <a href="https://www.linkedin.com/in/mairesse-nkundizanye-13a6202a3" target="_blank">IT Professional</a>  
   passionate about coding, problem-solving, and helping others resolve technical issues.<br>
@@ -31,12 +31,6 @@
     <a href="https://github.com/mairesse24/Windows-Server-AD-Setup">View Project</a>  
     <p>Created and configured a Windows Server domain in Azure using PowerShell automation.</p>
   </li>
-  <li>
-    <b>Student Grade Analytics System</b>  
-    <a href="https://github.com/mairesse24/student-grade-analytics">View Project</a>  
-    <p>Built an Access-based database with VBA automation for GPA calculations and dashboards.</p>
-  </li>
-</ul>
 
 ---
 
