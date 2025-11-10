@@ -22,8 +22,9 @@
 <ul>
   <li>
     <b>NTFS Permissions Configuration</b>  
-    <a href="https://github.com/mairesse24/practical-final">View Project</a>  
-    <p>Configured folder-level security permissions using NTFS ACLs and best security practices.</p>
+   <a href="https://github.com/mairesse24/Configure-NTFS-Permissions" target="_blank"> View Project</a>  
+    <p>Configured NTFS permissions on folders for different user groups, applying the principle of least privilege.  
+    Demonstrated skills in Windows Server administration and file system security management.</p>
   </li>
   <li>
     <b>Active Directory Domain Services (AD DS) Lab</b>  
