@@ -25,7 +25,5 @@
 <h2 style="font-weight: bold;">🤳Connect with me:</h2>
 
 <p style="display: flex; flex-direction: row;">
-  [<img alt="Mairesse | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Mairesse24)
-  [<img alt="Mairesse | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/Mairesse24)
-  [<img alt="Mairesse | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/Mairesse24)
+  [<img alt="Mairesse | Instagram" width="22px" src="www.linkedin.com/in/mairesse-nkundizanye-13a6202a3" />]
 </p>
